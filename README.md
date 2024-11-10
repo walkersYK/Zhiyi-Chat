@@ -11,7 +11,7 @@
 
 
 
-<a href="https://github.com/peng-zhihui/ElectronBot/stargazers"><img src="https://img.shields.io/github/stars/peng-zhihui/ElectronBot" alt="Stars Badge"/></a>
+<a href="https://github.com/walkersYK/zhiyichat/stargazers"><img src="https://img.shields.io/github/stars/walkersYK/zhiyichat" alt="Stars Badge"/></a>
 <a href="https://github.com/peng-zhihui/ElectronBot/network/members"><img src="https://img.shields.io/github/forks/peng-zhihui/ElectronBot" alt="Forks Badge"/></a>
 <a href="https://github.com/peng-zhihui/ElectronBot/pulls"><img src="https://img.shields.io/github/issues-pr/peng-zhihui/ElectronBot" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/peng-zhihui/ElectronBot/issues"><img src="https://img.shields.io/github/issues/peng-zhihui/ElectronBot" alt="Issues Badge"/></a>
