@@ -12,13 +12,13 @@
 
 
 <a href="https://github.com/walkersYK/zhiyichat/stargazers"><img src="https://img.shields.io/github/stars/walkersYK/zhiyichat" alt="Stars Badge"/></a>
-<a href="https://github.com/peng-zhihui/ElectronBot/network/members"><img src="https://img.shields.io/github/forks/peng-zhihui/ElectronBot" alt="Forks Badge"/></a>
-<a href="https://github.com/peng-zhihui/ElectronBot/pulls"><img src="https://img.shields.io/github/issues-pr/peng-zhihui/ElectronBot" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/peng-zhihui/ElectronBot/issues"><img src="https://img.shields.io/github/issues/peng-zhihui/ElectronBot" alt="Issues Badge"/></a>
-<a href="https://github.com/peng-zhihui/ElectronBot/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/peng-zhihui/ElectronBot?color=2b9348"></a>
-<a href="https://github.com/peng-zhihui/ElectronBot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/peng-zhihui/ElectronBot?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/walkersYK/zhiyichat/network/members"><img src="https://img.shields.io/github/forks/walkersYK/zhiyichat" alt="Forks Badge"/></a>
+<a href="https://github.com/walkersYK/zhiyichatt/pulls"><img src="https://img.shields.io/github/issues-pr/walkersYK/zhiyichat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/walkersYK/zhiyichat/issues"><img src="https://img.shields.io/github/issues/walkersYK/zhiyichat" alt="Issues Badge"/></a>
+<a href="https://github.com/walkersYK/zhiyichat/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/walkersYK/zhiyichat?color=2b9348"></a>
+<a href="https://github.com/walkersYK/zhiyichat/blob/master/LICENSE"><img src="https://img.shields.io/github/license/walkersYK/zhiyichat?color=2b9348" alt="License Badge"/></a>
 
-<a href="https://github.com/peng-zhihui/ElectronBot/blob/main/enREADME.md"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=English README 英文自述文件&color=%230076D6&style=flat&logo=google-chrome&logoColor=green" alt="website"/></a>
+<a href="https://github.com/walkersYK/zhiyichat/blob/main/enREADME.md"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=English README 英文自述文件&color=%230076D6&style=flat&logo=google-chrome&logoColor=green" alt="website"/></a>
 
 [🥳 chat- zhiyi](https://chatnio.com)
 
