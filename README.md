@@ -7,7 +7,7 @@
 ​						
 ​				
 
-			[🥳 Chat Zhiyi]()
+			[🥳 Chat Zhiyi](https://github.com/walkersYK/Zhiyi-Chat)
 
 
 
