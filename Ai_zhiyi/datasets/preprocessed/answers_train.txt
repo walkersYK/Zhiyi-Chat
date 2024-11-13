@@ -1,0 +1,2248 @@
+Yes
+yes
+vasculature
+MRI Diffusion Weighted
+the brain
+yes
+No
+No
+no
+Yes
+no
+Posterior-Anterior
+No
+ultrasound
+The extremities
+yes
+No
+No
+no
+left temporal lobe
+yes
+yes
+no
+Axial
+No
+yes
+Cardiovascular
+no
+yes
+Chest X-ray
+no
+Yes
+Yes
+yes
+yes
+No
+No
+Yes
+Yes
+yes
+Breasts
+No
+No
+No
+No
+Yes
+Yes
+Right side
+yes
+yes
+no
+no
+no
+no
+yes
+Heterogeneous
+no
+no
+Yes
+Yes
+Yes
+no
+yes
+yes
+Yes
+yes
+yes
+no
+no
+yes
+yes
+yes
+yes
+yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Cystic
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+no
+no
+yes
+Yes
+yes
+yes
+Yes
+Pons
+Yes
+No
+No
+Asymmetric
+Asymmetric
+Yes
+Yes
+Yes
+Yes
+yes
+Yes
+Yes
+yes
+no
+no
+yes
+no
+no
+Yes
+Yes
+Yes
+No
+Yes
+yes
+yes
+Yes
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+no
+no
+No
+No
+yes
+yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+No
+No
+No
+No
+Left hepatic lobe
+Left hepatic lobe
+axial
+no
+yes
+Yes
+yes
+yes
+Pulmonary nodules
+Pulmonary nodules
+Prior surgery
+Prior surgery
+Right superior cavoatrial junction
+Right superior cavoatrial junction
+Bilateral
+Free air
+Free air
+Yes
+Yes
+No
+No
+R hemidiaphragm
+yes
+no
+yes
+Right upper lobe
+Right upper lobe
+Chest
+Nodular opacities
+Nodular opacities
+x-ray
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Pancreas
+Pancreas
+5mm
+hypodense lesion
+hypodense lesion
+metastasis
+metastasis
+one
+one
+No
+GI
+CT
+Cirrhosis
+Cirrhosis
+Atherosclerotic calcification
+Atherosclerotic calcification
+no
+No
+No
+Splenule
+Splenule
+yes
+yes
+Gallstones
+Gallstones
+Yes
+Yes
+4
+yes
+yes
+PA
+Volume loss
+Volume loss
+No
+No
+Right lung
+Right lung
+Yes
+Ring-enhancing lesion
+Ring-enhancing lesion
+No
+No
+right temporal lobe
+right temporal lobe
+Right
+yes
+Right
+Right
+Cystic lesions
+Cystic lesions
+yes
+Yes
+Yes
+Yes
+Yes
+Axial
+No
+Yes
+No
+Bilateral
+Bilateral
+Ring-enhancing lesions
+Yes
+No
+Yes
+Yes
+Right hemisphere
+Right PCA
+Ischemia
+Ischemia
+Yes
+Diffuse
+Diffuse
+Basal ganglia
+No
+No
+No
+Chest x-ray
+Lungs
+no
+No
+No
+Right
+Partial silhouetting
+Partial silhouetting
+no
+no
+Pancreas
+Pancreas
+Enlarged
+Enlarged
+no
+no
+Yes
+Hypodense
+Hypodense
+No
+No
+Right lobe of the liver
+Right lobe of the liver
+Abnormal
+right parietal lobe
+right parietal lobe
+abscess
+abscess
+Yes
+Yes
+Right
+Yes
+Yes
+Yes
+Yes
+Suprasellar cistern
+Suprasellar cistern
+No
+Enlarged
+Enlarged
+middle mogul
+middle mogul
+middle mogul
+Yes
+Yes
+Yes
+extraluminal air and small fluid collection
+enlarged, fluid-filled
+Yes
+extra-axial and at the right choroidal fissure
+No
+No
+No
+Yes
+Yes
+Yes
+Pancreatic body
+No
+Above
+no
+less dense
+surrounding tissue
+no
+No
+No
+Left
+left hemisphere
+No
+PA
+No
+It is less than half the width of the thorax
+yes
+no
+Right side
+Right lung base
+No
+No
+Yes
+4th and 5th
+T5
+No
+No
+Right
+Right
+Yes
+Yes
+No
+One
+No
+Right lower lobe
+Right lower lobe
+No
+Yes
+No
+Yes
+No
+Yes
+Right lung
+Right lung
+No
+Less than half the thorax
+In the thorasic aorta
+Width of aorta
+No
+No
+No
+No
+No
+Yes
+Anterior mediastinum
+Right lung hilum
+Anterior mediastinum
+Right
+No
+No
+None
+yes
+yes
+No
+No
+Smaller
+Right lung base
+Yes
+In the midline
+5 cm
+5 cm
+CT
+Gastrointestinal
+Right lobe
+Right lobe
+no
+Black
+YES
+The lungs
+Superior
+High on the image
+Left
+Left
+Heart 	lungs
+no
+On the right shoulder.
+Yes
+X-ray
+Yes
+Right side
+Right side
+No
+No
+No
+No
+No
+No
+Right lung
+Right upper lobe
+7th rib
+7th rib
+Left
+Left
+Yes
+Left side
+Left side
+Yes
+Blood vessel
+Not seen here
+No
+Right
+Yes
+Periappendiceal fluid and fat stranding
+No
+No
+Posterior to the appendix
+Psoas muscle
+In the bowels
+One
+No
+Yes
+kidneys
+Small bowel
+Small bowel
+In the bowels
+No
+No
+No
+No
+Left
+Left
+In the bowel
+yes
+Both
+Gastrointestinal
+Edematous
+Yes
+In the vasculature
+Yes
+Yes
+No
+No
+Yes
+No
+Less dense
+The surrounding tissue
+On the left
+Yes
+posteriorly
+posteriorly
+Left side
+Left temporal lobe
+Necrotic tissue
+necrosis
+necrosis
+Yes
+Yes
+No
+No
+Left kidney
+Left kidney
+more dense
+cystic lesions
+On the patient's left
+No
+No
+Above the clavicles bilaterally
+Yes
+No
+Right
+Right
+No
+No
+No
+Pacemaker
+In the right hilum
+Upper right lobe
+No
+Left
+Left lung
+No
+No
+A bullous lesion
+No
+Midline
+Contrast in the intestines
+No
+No
+No
+Infarcted areas
+No
+Calcifications
+No
+Fat accumulations
+Hypodense
+Yes
+The posterior horn of the left lateral ventricle
+no
+yes
+Right frontal lobe
+No
+Axial
+No
+yes
+The small intestines
+Yes
+No
+No
+CT with contrast
+No
+Contrast
+A bit
+yes
+Skull 	cartilage and medulla
+Yes
+No
+No
+No
+yes
+Posteroanterior
+No
+It is shifted to the right
+no
+Scoliosis
+no
+No
+Imaging artifacts
+Axial
+Yes
+no
+No
+No
+Right
+The right bronchus
+No
+No
+Left upper lobe
+No
+Lung
+Plain film x-ray
+Yes
+no
+Yes
+Just one
+No
+No
+No
+Right frontal lobe
+No
+No
+No
+No
+No
+No
+No
+Occipital lobe
+No
+No
+No
+No
+No
+No
+Yes
+No
+The diaphragm
+The liver
+Yes
+Yes
+yes
+No
+No
+lungs 	bony thoracic cavit y	mediastinum and great vessels
+No
+No
+no
+No
+no
+no
+Yes
+Yes
+no
+no
+Yes
+lateral ventricles
+lateral ventricles
+Abscess
+Abscess
+Yes
+viral
+Parasitic
+Solid
+Solid
+no
+no
+no
+no
+Yes
+yes
+No
+No
+No
+No
+No
+If the heart diameter is greater than half the diameter of the thoracic cavity.
+C-T ratio
+No
+No
+No
+No
+10-20 minutes
+Large bowel
+Large bowel
+retroperitoneum; retroperitoneal space
+yes
+Yes
+CSF is brightly lit
+Aorta enhancement
+supratentorial
+no
+No
+No
+yes
+No
+No
+Chronic sinusitis vs. hemorrhage
+Yes
+Yes
+Female
+Female
+No
+No
+Mediport
+Bronchiectasis
+Thickening of bronchi
+no
+no
+No
+No
+No
+No
+No
+No
+No
+Lateral ventricles
+~15 minutes	potentially faster with newer imaging systems
+Yes
+Yes
+yes
+No
+No
+Yes
+no
+no
+White matter
+White matter
+Yes
+Hemorrhage
+Cancer
+No
+No
+no
+no
+No
+head/neck CT
+Biopsy
+yes
+yes
+no
+No
+No
+No
+No
+Axial
+No
+No
+No
+No
+no
+no
+Yes
+No
+No
+yes
+yes
+no
+no
+Axial
+no
+no
+yes
+yes
+no
+no
+Axial
+metastases, infection/abcess, glioblastoma
+Toxoplasma, lymphoma, abscesses, other brain tumors
+fat
+fat
+No
+No
+No
+Psoas muscles
+Psoas muscles
+No
+No
+Yes
+abcess
+abcess
+No
+Yes
+no
+no
+Yes
+ureteral obstruction
+ureteral obstruction
+aorta is bright
+Enhancement of vessels
+Medical process
+Medical process
+Frontal and Occipital
+lateral ventricles
+lateral ventricles
+genetic
+Vascular
+moderate edema
+moderate edema
+ring enhancing lesion in the left occipital lobe
+ring enhancing lesion in the left occipital lobe
+ring enhancing lesion
+ring enhancing lesion
+one
+yes
+yes
+yes
+yes
+No
+In the cortex and basal ganglia bilaterally
+In the cortex and basal ganglia bilaterally
+mid left subclavian vein
+mid left subclavian vein
+no
+yes
+yes
+yes
+coronal
+No
+a catheter
+a catheter
+yes
+yes
+Yes
+Yes
+yes
+pulmonary/lymphatic
+CXR
+yes
+yes
+Right of the midline, superior to the right hilum
+yes
+yes
+yes
+yes
+cardiomegaly with pulmonary edema
+cardiomegaly with pulmonary edema
+yes
+yes
+yes
+yes
+yes
+cardiomegaly
+cardiomegaly
+no
+yes
+yes
+GI
+GI
+No
+No
+No
+anterior to the transverse colon
+anterior to the transverse colon
+yes
+yes
+fat
+fat
+one
+yes
+T2-MRI
+CNS
+vascular
+vascular
+Right temporal lobe
+Right MCA
+Right MCA
+quadrantopia, aphasia, memory deficit, etc.
+Motor weakness, sensory deficits, and left neglect
+yes
+yes
+no
+no
+No
+hydropneumothorax
+hydropneumothorax
+no
+no
+no
+no
+PRES
+PRES
+CNS
+yes
+FLAIR MRI
+bilateral parietal lobes
+yes
+yes
+Right upper lobe
+Right upper lobe
+yes
+yes
+no
+yes
+yes
+cecum
+cecum
+yes
+yes
+Yes
+yes
+yes
+yes
+yes
+yes
+yes
+no
+parietal and occipital lobes
+parietal and occipital lobes
+No
+Yes
+Yes
+viral/inflammatory
+CVA
+yes
+yes
+sternotomy wires and surgical clips
+sternotomy wires and surgical clips
+one
+left lobe mass 1.5 x 1.8 cm
+left lobe mass 1.5 x 1.8 cm
+yes
+yes
+Coronal
+Left Apical Pneumothorax
+Left Apical Pneumothorax
+No
+No
+No
+no
+no
+yes
+yes
+yes
+yes
+yes
+yes
+Yes
+yes
+yes
+yes
+yes
+yes
+yes
+Yes
+mass
+mass
+yes
+yes
+coronal
+yes
+yes
+No
+yes
+yes
+yes
+yes
+yes
+yes
+head of the pancreas
+head of the pancreas
+One
+yes
+yes
+no
+no
+Yes
+Yes
+Yes
+The pancreatic head
+Yes
+The pancreas
+No
+Xray - plain film
+No
+T2 weighted MRI
+The left occipital lobe
+Yes
+No
+yes
+No
+X-ray plain film
+Respiratory System
+No
+Yes
+no
+The liver
+Axial plane
+The aorta and the inferior vena cava
+yes
+Yes
+Yes
+No
+Left lateral aspect of anterior peritoneum
+Omental caking
+Yes
+The base of the cecum
+Air
+No
+Left mid lung
+No
+No
+Yes
+No
+Right side
+4th ventricle
+No
+yes
+Yes
+Axial
+yes
+Fat stranding around the appendix, thickened appendiceal walls, dilated appendix, and an appendicolith is seen as well
+The abdomen
+Contrast CT with GI and IV contrast
+No
+Yes
+no
+yes
+No
+PA
+3rd rib
+no
+The left costophrenic angle is blunted
+No
+yes
+The left kidney
+Yes
+CT with GI and IV contrast
+abdomen
+Yes
+No
+Yes
+Ring enhancing lesion in the right frontal lobe
+MRI
+The right frontal lobe
+No
+Non-contrast CT
+The 3rd ventricle and the lateral ventricles
+Right frontal lobe
+No
+Regression of left frontal mass
+Right lenticular nucleus
+Diffusion Weighted Imaging (DWI)
+Right side
+No
+No
+No
+The left kidney
+Yes
+The aorta
+No
+No
+Left side
+Subarachnoid
+Subarachnoid
+Yes
+Yes
+No
+No
+Yes
+no
+yes
+coronal plane?
+Axial
+nephroblastomatosis
+nephroblastomatosis
+contrast
+contrast
+Not sure.
+5%
+Medial rectus
+Medial rectus
+Medial and lateral rectus
+Medial and lateral rectus
+yes
+yes
+No
+Imagine the patient is laying down and you are looking from the feet
+no
+no
+Yes
+RUQ pain, jaundice,weight loss?
+abdominal pain
+Trace the gallbladder emptying?
+cystic duct is more tortuous
+Tumors, gallstones
+Stones, cancer, infection, anatomic variants
+Bowel contents light up on image
+no
+Congenital developmental disorder? History of surgery and past manipulation?
+Axial
+Location of the contrast?
+Haustra
+Air?
+haustra
+Not sure
+plicae circulares
+Right
+Right
+Cardiac region
+Cardiac region
+Sternal wires
+Sternal wires
+PA
+IVC
+IVC
+Left
+Left
+Axial
+Axial
+Yes
+Chest xray
+No
+No
+No
+No
+Respiratory 	cardia c	musculoskeletal
+no
+Yes
+Bilateral lungs
+Bilateral lungs
+Bilateral
+Bilateral
+Infarct
+Infarct
+R frontal lobe
+R frontal lobe
+No
+Yes
+Yes
+Yes
+Yes
+Chest X-ray
+Chest X-ray
+Bilateral lungs
+yes
+yes
+Axial
+bilateral cerebellum
+bilateral cerebellum
+Yes
+More acute means more inflammation-leading to enhancement?
+Less enhancement
+Maybe
+Yes
+Loculated
+Loculated
+Right cerebellum
+Right cerebellum
+No
+No
+Mixed intensity
+Yes
+Yes
+Left
+Left
+Yes
+Yes
+Yes
+chest x Ray
+chest x Ray
+Left
+Left
+Yes
+Yes
+hydropneumothorax
+Yes
+Yes
+Left Parietal lobe
+Left Parietal lobe
+Yes
+CSF is white.
+White versus grey matter brightness
+No
+No
+Pineal gland
+Pineal gland
+No
+No
+No
+Right side
+Right side
+Yes
+Yes
+No
+No
+Yes
+MR FLAIR
+MR FLAIR
+Right Cerebellum
+Right Cerebellum
+No
+No
+Short section irregular contour
+PA
+PA
+No
+Adenopathy
+Infection
+Paratracheal area
+Paratracheal area
+Right
+Right
+White matter
+White matter
+White matter plaques
+Gray matter
+Gray matter
+CSF is white
+yes
+T2
+Ring enhancing lesion
+Ring enhancing lesion
+no
+Not sure
+Pituitary fossa
+yes
+No
+right sided aortic arch
+right sided aortic arch
+PA Xray
+PA Xray
+double arch
+No
+No
+no
+cerebellum
+cerebellum
+yes
+axial
+Right posteroinferior cerebellum
+bleeding in the right posteroinferior cerebellum
+right vertebral artery sign
+No
+No
+MRI - T2 weighted
+yes
+Oculomotor nerve (CN III) and Trigeminal nerves (CN V)
+Oculomotor nerve (CN III) and Trigeminal nerves (CN V)
+Basilar artery
+Basilar artery
+CSF
+CSF
+Brain
+multilobulated
+Right frontal lobe
+Right frontal lobe
+T2 weighted
+T2 weighted
+No
+No
+No
+axial
+axial
+sella and suprasellar cistern
+sella and suprasellar cistern
+Brain
+Brain
+No
+PA
+yes
+no
+No
+No
+Diffuse
+Diffuse
+no
+Rounded, well-defined pulmonary nodules varying in size and pattern
+pulmonary nodules
+with contrast
+with contrast
+heterogeneous
+heterogeneous
+CT
+CT
+abscess
+No
+No
+right lower lateral lung field
+right lower lateral lung field
+No
+No
+No
+3.4 cm
+3.4 cm
+Chest
+No
+No
+yes
+Right upper lobe
+Right upper lobe
+Xray
+emphysema
+No
+No
+decreased muscle bulk
+cardiopulmonary
+cardiopulmonary
+Semi-upright position
+Semi-upright position
+Female
+Female
+No
+No
+Upper lobes
+Upper lobes
+No
+T2 weighted
+T2 weighted
+Yes
+Yes
+yes
+yes
+fluid
+Left kidney
+Left kidney
+With contrast
+Yes
+Adipose tissue
+Adipose tissue
+ascending colon
+no
+no
+X-ray
+X-ray
+right
+right
+No
+Brain
+yes
+right lateral ventricle
+right lateral ventricle
+No
+No
+MRI - T1 weighted
+Hydrocephalus
+Hydrocephalus
+reduced sulci
+Left thalamus and basal ganglia
+Left thalamus and basal ganglia
+T2
+T2
+no
+Axial
+Yes
+Yes
+yes
+early hemorrhage
+Yes
+Yes
+yes
+yes
+mucosal hyperemia
+yes
+yes
+Yes
+Yes
+No
+No
+Kidneys
+Kidneys
+fat
+Right hemisphere
+Right hemisphere
+DWI
+DWI
+temporal and lateral occipital lobes
+basal ganglia (caudate and putamen)
+basal ganglia (caudate and putamen)
+No
+No
+right
+right
+Xray
+bilateral pleural effusion
+bilateral pleural effusion
+4th ventricle
+4th ventricle
+Right cerebellopontine angle
+Right cerebellopontine angle
+with contrast
+with contrast
+5cm
+Brain
+Brain
+DWI
+DWI
+basilar artery thrombosis
+Cerebellum
+Cerebellum
+No
+No
+yes
+Lateral film as well as PA
+No
+No
+yes
+No
+No
+Upper left
+No
+No
+No
+No
+No
+Sacroiliac joint
+No
+Left cerebellum
+Left cerebellum
+Maxillary sinuses
+Maxillary sinuses
+No
+No
+No
+No
+No
+Yes
+Yes
+Left occipital lobe
+Left occipital lobe
+Yes
+No
+No
+Gallbladder
+Yes
+Ribs
+Ribs
+2
+No
+No
+Ribs
+Ribs
+No
+Posterior lung seen in the image section
+Pneumothorax
+Yes
+Yes
+No
+No
+Choroid plexus
+Lateral ventricles
+No
+Supine (see air-fluid level)
+No
+No
+No
+No
+L2
+L2-3
+no
+Varicocele
+Stomach
+no
+Cartilage is not well viewed by x rays
+No
+No
+The liver
+No
+No
+Left
+bilateral
+both sides
+No
+No
+No
+No
+No
+no
+Female
+Female
+No
+Lung markings present all the way laterally to the ribs
+The right mainstem bronchus is more in line with the trachea than the left
+No
+No
+Air
+Right
+No
+No
+no
+no
+No
+No
+Right vs left sided pathology
+No
+Sharp costophrenic angles
+Sharp costophrenic angles
+No
+No
+Stomach bubble
+Stomach bubble
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+No
+No
+No
+No
+No
+air fluid level
+air fluid level
+yes
+Lying supine with their feet towards the screen
+No
+No
+yes
+Calcification
+Calcification
+No
+Intestine
+Intestine
+Fat
+Fat
+Yes
+horsehoe kidney
+horsehoe kidney
+No
+No
+Right
+Right
+Almost entire right side
+No
+Yes
+Left cerebellum
+Right PICA
+Temporal lobe
+Temporal lobe
+No
+No
+Infarct
+Sulcal effacement
+Sulcal effacement
+Right temporal lobe
+Right temporal lobe
+No
+No
+Yes
+Left kidney
+Left kidney
+No
+No
+No
+No
+2
+No
+No
+No
+No
+Infarct
+Right parietal
+Right parietal
+No
+No
+basal ganglia, cerebellum, cerebral cortex
+No
+No
+Diffuse
+Diffuse
+No
+No
+4th ventricle
+No
+No
+No
+No
+No
+No
+No
+Exterior
+Outside
+blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border
+blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border
+no
+Elliptical
+Elliptical
+intestines
+IV contrast
+Yes
+Yes
+Left rectus abdominus
+Left rectus abdominus
+Left
+No
+No
+yes
+No
+No
+PA
+no
+Micronodular
+Micronodular
+No
+No
+No
+Posterior brain
+hypoxic ischemic injury
+Loss of normal gray-white matter junction
+MRI-DWI
+Yes
+Yes
+yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Axial
+Bilateral frontal lobes
+Bilateral frontal lobes
+yes
+no
+No
+no
+Right lung
+Right lung
+No
+No
+yes
+Below the 7th rib in the right lung.
+Single lung nodule
+PA
+No
+Smooth
+Smooth
+Retrocardiac
+Retrocardiac
+Yes
+No
+Yes
+Left temporal horn
+Left temporal horn
+Yes
+Yes
+Isointense
+Isointense
+No
+Yes
+Yes
+Abdomen and pelvis
+Abdomen and pelvis
+Yes
+Yes
+No
+Brain
+Ring-enhancing
+Ring-enhancing
+Yes
+Yes
+MRI
+yes
+No
+No
+ring-enhancing lesion
+ring-enhancing lesion
+Right side of the trachea
+Right side of the trachea
+Yes
+Yes
+Man
+Right paratracheal mass lesion
+Right paratracheal mass lesion
+Yes
+Yes
+Right colon
+Right colon
+Diverticulitis
+Diverticulitis
+No
+Lateral and third ventricular hydrocephalus
+Lateral and third ventricular hydrocephalus
+Pineal region
+Pineal region
+Hyperintense
+Hyperintense
+No
+Yes
+Yes
+Yes
+Yes
+No
+Increased opacity in the left retrocardiac region
+Increased opacity in the left retrocardiac region
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Blind loop syndrome
+Blind-ending loop of bowel arising from the cecum
+Yes
+Yes
+Right
+No
+No
+right kidney
+right kidney
+No
+No
+No
+No
+No
+No
+6.5 x 6.2 x 8.8cm
+yes
+Yes
+yes
+yes
+fatty infiltration
+fatty infiltration
+yes
+yes
+yes
+yes
+yes
+yes
+kidney cyst
+kidney cyst
+CT
+Well-circumscribed
+exophytic cyst
+nipple location
+nipple location
+yes
+yes
+yes
+X-ray
+Diaphragm
+anterior mediastinum
+Yes
+Yes
+Axial
+ascites
+ascites
+yes
+yes
+Spleen
+Spleen
+yes
+Shrunken and nodular
+Shrunken and nodular
+bilateral frontal lobes and body of corpus callosum
+bilateral frontal lobes and body of corpus callosum
+MRI/FLAIR
+MRI/FLAIR
+Hemorrhage
+Hemorrhage
+yes
+yes
+yes
+yes
+yes
+jejunum
+jejunum
+yes
+PA
+PA
+No
+No
+no
+no
+plain film
+distal basilar artery
+distal basilar artery
+thalami, left occipital lobe, brainstem and left cerebellum
+thalami, left occipital lobe, brainstem and left cerebellum
+MRI
+Infarcts
+embolus
+Yes
+Yes
+Yes
+Yes
+pleural effusion
+pleural effusion
+Yes
+suprasellar
+suprasellar
+contrast
+contrast
+Calcification
+Calcification
+2.5cm x 1.7cm x 1.6cm
+Gallstones
+Yes
+yes
+yes
+yes
+Pericholecystic fluid
+Axial
+yes
+yes
+yes
+No
+No
+yes
+yes
+plain film xray
+It is enlarged with prominence of the aortic knob
+It is enlarged with prominence of the aortic knob
+CT
+CT
+yes
+yes
+pancreas
+pancreas
+yes
+left ACA and MCA
+left ACA and MCA
+axial
+axial
+MR - ADC Map
+MR - ADC Map
+left
+yes
+With contrast
+Hip bones
+No
+No
+yes
+No
+No
+No
+No
+yes
+yes
+yes
+yes
+CT
+Irregular
+infiltrative
+x-ray
+x-ray
+nodules
+nodules
+yes
+Yes
+Yes
+Yes
+Yes
+With contrast
+yes
+descending colon
+descending colon
+Adjacent to vertebrae
+yes
+No
+No
+brain
+Caudate, putamen, left parietal
+axial
+axial
+MR - Flair
+MR - Flair
+Yes
+anterior cerebrum
+Anterior surface
+MRI-FLAIR
+MRI-FLAIR
+axial
+axial
+yes
+brain
+brain
+MR - T2 weighted
+MR - T2 weighted
+No
+Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe
+Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe
+chest
+pneumonia
+pneumonia
+yes
+No
+No
+Yes
+No
+No
+no
+No
+yes
+Aorta
+Aorta
+Yes
+Oral and IV
+Oral and IV
+Diverticuli
+Diverticuli
+Cystic
+Cystic
+yes
+No
+No
+PA
+No
+No
+no
+yes
+yes
+right lobe of the liver
+right lobe of the liver
+calcifications
+calcifications
+5.6cm focal, predominantly hypodense
+5.6cm focal, predominantly hypodense
+5.6cm focal, predominantly hypodense
+5.6cm focal, predominantly hypodense
+5.6cm focal, predominantly hypodense
+5.6cm focal, predominantly hypodense
+No
+Yes
+Yes
+Posterior fossa
+Posterior fossa
+FLAIR
+MR-FLAIR
+XR
+No
+No
+No
+No
+acute stroke
+cavum vergae
+cavum vergae
+hyperintensity of the left basal ganglia
+hyperintensity of the left basal ganglia
+Yes
+Right Sylvian Fissure
+Right Sylvian Fissure
+Subarachnoid
+Subarachnoid
+No
+non-contrast
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+CT
+CT
+Mid abdomen
+Mid abdomen
+Yes
+Yes
+no
+No
+No
+chest
+retrocardiac
+retrocardiac
+Air
+Air
+No
+AP
+AP
+Stomach
+Stomach
+No
+No
+MRI
+No
+No
+Hyperintense
+Hyperintense
+abnormal hyperintensity in the right occipital lobe
+abnormal hyperintensity in the right occipital lobe
+Yes
+FLAIR
+Yes
+Motion
+Motion
+Basal Ganglia
+Basal Ganglia
+No
+Normal
+Normal
+Axial
+Axial
+Oral and IV
+Oral and IV
+No
+No
+Yes
+Axial
+Axial
+FLAIR
+FLAIR
+Yes
+yes
+Yes
+Yes
+no
+Axial
+Yes
+Yes
+Calcified atherosclerosis
+Calcified atherosclerosis
+No
+No
+No
+Brain
+yes
+Yes
+Yes
+MRI
+No
+Yes
+Yes
+Yes
+Yes
+Posterior to the gastric antrum
+Ribs
+CT
+Appendix
+Appendix
+appendicitis
+appendicitis
+fat
+fat
+Yes
+lentiform
+Biconvex
+epidural hematoma
+sinusitis
+crescent
+Concave
+yes
+central hyperintensity and surrounding hypointensity
+central hyperintensity and surrounding hypointensity
+MRI
+MRI
+axial
+axial
+Xray
+No
+No
+No
+No
+yes
+abnormal
+abnormal
+proximal aspect of the appendix
+proximal aspect of the appendix
+No
+Both
+Bilateral
+Yes
+Yes
+Yes
+Normal
+Yes
+yes
+Sigmoid Flexture of the Colon
+Sigmoid Flexture of the Colon
+Right Subclavian Vein
+Right Subclavian Vein
+yes
+PA
+Base
+Lower lung fields
+No
+Non-enhanced
+Non-enhanced
+No
+No
+FLAIR
+FLAIR
+axial
+punctate
+punctate
+No
+No
+all three vascular distributions
+diffuse
+Yes
+Radiolucent
+Hypointense
+MRI
+no
+Axial
+Axial
+Brain
+No
+No
+T2 weighted
+Brain
+T2-weighted
+right subdural hematoma
+right subdural hematoma
+no
+no
+no
+axial
+soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy
+soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy
+Axial
+no
+peritoneum
+peritoneum
+yes
+Yes
+Underneath the right hemidiaphragm
+Underneath the right hemidiaphragm
+yes
+yes
+PA
+PA
+Yes
+Axial
+Axial
+Right
+Right
+MRI - T2 Weighted
+MRI - T2 Weighted
+DWI Diffusion weighted
+Left thalamus
+Left thalamus
+left MCA
+left MCA
+yes
+hepatocellular carcioma
+hepatocellular carcioma
+portal vein occlusion
+Portal vein
+No
+nothing
+CT
+GI
+yes
+adjacent to the appendix
+adjacent to the appendix
+CT
+Yes
+yes
+Hyperinflation
+On top of the patient
+ superficial to the patient's skin
+Yes
+Yes
+No
+Yes
+Yes
+Psoas Major Muscle
+Psoas Major Muscle
+Yes
+Yes
+no
+yes
+axial
+there is massive cerebral hemisphere edema
+there is massive cerebral hemisphere edema
+yes
+small subdural hematoma with cerebral edema
+small subdural hematoma with cerebral edema
+right convexity
+right convexity
+no
+pleural effusion
+pleural effusion
+right sided pleural effusion
+right sided pleural effusion
+right sided pleural effusion
+right sided pleural effusion
+right sided pleural effusion
+right sided pleural effusion
+No
+No
+gadolinium
+MS plaques
+MS plaques
+multiple sclerosis
+multiple sclerosis
+cerebrum and lateral ventricles
+cerebrum and lateral ventricles
+No
+Yes
+Yes
+no
+yes
+Yes
+Yes
+Axial
+Nucleus Pulposus
+Nucleus Pulposus
+No
+No
+No
+Yes
+Yes
+12
+12
+Yes
+No
+No
+costophrenic angle blunting
+Fluid in the pleural space
+Left
+Left
+No
+Yes
+Yes
+Chest radiograph
+Yes
+Yes
+X-ray
+No
+No
+yes
+No
+Not sure
+Maybe
+pleural plaques
+pleural plaques
+No
+No

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e1e02d2-895d-4c75-a747-8d3b202ee0aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2oKR3YRYEkgBotu7rXZnQ4J4LEN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ai_zhiyi" />
+      <recent name="D:\Ai_zhiyi\datasets\preprocessed\date" />
+      <recent name="D:\Ai_zhiyi\datasets\preprocessed" />
+      <recent name="D:\Ai_zhiyi\model" />
+      <recent name="D:\Ai_zhiyi\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ai_zhiyi\model\lstm_vgg_model" />
+      <recent name="D:\Ai_zhiyi\datasets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Ai_zhiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chatbot_graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ai_zhiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Ai_zhiyi/Graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Ai_zhiyi/Graph/chatbot_graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lstm_vgg_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ai_zhiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Ai_zhiyi/model/lstm_vgg_model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Ai_zhiyi/model/lstm_vgg_model/lstm_vgg_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ai_zhiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ai_zhiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Ai_zhiyi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Ai_zhiyi/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multi_ai_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ai_zhiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Ai_zhiyi/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Ai_zhiyi/utils/multi_ai_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.chatbot_graph" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.lstm_vgg_train" />
+        <item itemvalue="Python.multi_ai_utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1e02d2-895d-4c75-a747-8d3b202ee0aa" name="Default Changelist" comment="" />
+      <created>1730616081868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730616081868</updated>
+      <workItem from="1730616083158" duration="16450000" />
+      <workItem from="1730731377745" duration="346000" />
+      <workItem from="1730794420545" duration="3898000" />
+      <workItem from="1731118787568" duration="2276000" />
+      <workItem from="1731140894547" duration="595000" />
+      <workItem from="1731156091735" duration="6460000" />
+      <workItem from="1731216167940" duration="340000" />
+      <workItem from="1731217040454" duration="2047000" />
+      <workItem from="1731324853136" duration="115000" />
+      <workItem from="1731324969954" duration="17000" />
+      <workItem from="1731325426451" duration="657000" />
+      <workItem from="1731392432868" duration="414000" />
+      <workItem from="1731394957675" duration="170000" />
+      <workItem from="1731395137404" duration="23000" />
+      <workItem from="1731395161126" duration="157000" />
+      <workItem from="1731395327482" duration="56000" />
+      <workItem from="1731395582362" duration="1204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="797" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1731163326381">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="797" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1731163326381" />
+    <state x="634" y="265" key="FileChooserDialogImpl" timestamp="1731395609891">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="265" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1731395609891" />
+    <state width="1230" height="204" key="GridCell.Tab.0.bottom" timestamp="1731229974386">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="204" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1731229974386" />
+    <state width="1230" height="204" key="GridCell.Tab.0.center" timestamp="1731229974386">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="204" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1731229974386" />
+    <state width="1230" height="204" key="GridCell.Tab.0.left" timestamp="1731229974385">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="204" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1731229974385" />
+    <state width="1230" height="204" key="GridCell.Tab.0.right" timestamp="1731229974386">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="204" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1731229974386" />
+    <state width="1230" height="429" key="GridCell.Tab.1.bottom" timestamp="1731164695137">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="429" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1731164695137" />
+    <state width="1230" height="429" key="GridCell.Tab.1.center" timestamp="1731164695137">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="429" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1731164695137" />
+    <state width="1230" height="429" key="GridCell.Tab.1.left" timestamp="1731164695137">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="429" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1731164695137" />
+    <state width="1230" height="429" key="GridCell.Tab.1.right" timestamp="1731164695137">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1230" height="429" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1731164695137" />
+    <state x="229" y="168" key="SettingsEditor" timestamp="1731403208007">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="229" y="168" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1731403208007" />
+    <state x="731" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1730647552981">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="731" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1730647552981" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$config.coverage" NAME="config Coverage Results" MODIFIED="1730616788947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$Transformer.coverage" NAME="Transformer Coverage Results" MODIFIED="1730647001215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/model/transformer" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$multi_ai_utils.coverage" NAME="multi_ai_utils Coverage Results" MODIFIED="1731120354310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/utils" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$super_1000.coverage" NAME="super_1000 Coverage Results" MODIFIED="1730616594475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/preprocessed/preprocess_data" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$super_1000__1_.coverage" NAME="super_1000 (1) Coverage Results" MODIFIED="1730617130311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/datasets/preprocessed/preprocess_data" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$lstm_vgg_train.coverage" NAME="lstm_vgg_train Coverage Results" MODIFIED="1731160183958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/model/lstm_vgg_model" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$Get_cnnfeature.coverage" NAME="Get_cnnfeature Coverage Results" MODIFIED="1730794814767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/datasets" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$main.coverage" NAME="main Coverage Results" MODIFIED="1731164674185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$chatbot_graph.coverage" NAME="chatbot_graph Coverage Results" MODIFIED="1731222036927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/Graph" />
+    <SUITE FILE_PATH="coverage/Ai_zhiyi$lstm.coverage" NAME="lstm Coverage Results" MODIFIED="1730620618365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Ai_zhiyi/model" />
+  </component>
+</project>
